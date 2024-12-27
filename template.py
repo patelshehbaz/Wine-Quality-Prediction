@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "Wine Quality Project"
+project_name = "Wine_Quality_Project"
 
 
 

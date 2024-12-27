@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Wine-Quality-Prediction"
 AUTHOR_USER_NAME = "patelshehbaz"
-SRC_REPO = "Wine Quality Project"
+SRC_REPO = "Wine_Quality_Project"
 AUTHOR_EMAIL = "patelshehbaz27@gmail.com"
 
 
