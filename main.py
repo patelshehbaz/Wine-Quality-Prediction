@@ -1,3 +1,3 @@
-from src.Wine-Quality-Project import logger
+from Wine_Quality_Project import logger
 
 logger.info("Welcome to ml-project")
